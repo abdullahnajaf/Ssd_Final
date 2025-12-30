@@ -6,7 +6,7 @@ pipeline {
             steps {
                 echo 'Cloning latest code from GitHub'
                 git branch: 'main',
-                    url: 'https://github.com/your-username/python-jenkins-pipeline.git'
+                    url: 'https://github.com/abdullahnajaf/Ssd_Final'
             }
         }
         
